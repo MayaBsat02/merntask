@@ -1,0 +1,32 @@
+.swiper{
+    width: 70% !important;
+    height: 100%     !important;
+    margin:auto;
+}
+
+.swiperSlideImg{
+    width:100px !important;
+    height:100px !important;
+    
+}
+
+.swiperSlide{
+    width: 200px !important;
+    height: 200px !important;
+    background-color: #fff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 10px;
+}
+
+.swiper-button-next {
+    --swiper-theme-color: black;
+  }
+  .swiper-button-prev {
+    --swiper-theme-color: black;
+  }
+  .swiper-pagination-bullet {
+    --swiper-theme-color: black;
+  }
